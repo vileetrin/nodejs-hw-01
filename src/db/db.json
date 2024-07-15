@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "e63a1da1-2f3c-4241-8ed5-cffe4e493ac2",
+    "name": "Emily Beer",
+    "phone": "(385) 507-9920 x95974",
+    "email": "Clay.Barton20@yahoo.com",
+    "job": "Senior Branding Associate"
+  },
+  {
+    "id": "efcf1840-b6cc-4393-8b9a-19af2fdbb7c3",
+    "name": "Dianne Abbott",
+    "phone": "(577) 773-3026 x510",
+    "email": "Kallie_Swaniawski23@hotmail.com",
+    "job": "Lead Interactions Supervisor"
+  },
+  {
+    "id": "77a5e52a-2911-4958-9bcf-7260a0f903a4",
+    "name": "Mr. Merle Halvorson-Okuneva",
+    "phone": "587-613-1882 x909",
+    "email": "Aurelia.Witting@hotmail.com",
+    "job": "Future Metrics Facilitator"
+  },
+  {
+    "id": "00f731f8-fbb7-41bd-94b9-0a0a07473f53",
+    "name": "Mr. Felix Kling",
+    "phone": "(322) 501-4294 x1878",
+    "email": "Vilma.Nikolaus@hotmail.com",
+    "job": "Product Accounts Agent"
+  }
+]
